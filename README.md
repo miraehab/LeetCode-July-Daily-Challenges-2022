@@ -7,3 +7,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 2. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/1465.%20Maximum%20Area%20of%20a%20Piece%20of%20Cake%20After%20Horizontal%20and%20Vertical%20Cuts.cpp">Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts</a>
 3. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/376.%20Wiggle%20Subsequence.cpp">Wiggle Subsequence</a>
 4. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/135.%20Candy.cpp">Candy</a>
+5. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/128.%20Longest%20Consecutive%20Sequence.cpp">Longest Consecutive Sequence</a>
