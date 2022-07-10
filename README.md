@@ -12,3 +12,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 7. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/97.%20Interleaving%20String.cpp"> Interleaving String</a>
 8. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/97.%20Interleaving%20String.cpp"> Interleaving String</a>
 9. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/1696.%20Jump%20Game%20VI.cpp"> Jump Game VI</a>
+10. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.cpp"> Min Cost Climbing Stairs</a>
