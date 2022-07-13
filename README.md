@@ -15,3 +15,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 10. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/746.%20Min%20Cost%20Climbing%20Stairs.cpp"> Min Cost Climbing Stairs</a>
 11. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.cpp"> Binary Tree Right Side View</a>
 12. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/473.%20Matchsticks%20to%20Square.cpp"> Matchsticks to Square</a>
+13. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp"> Binary Tree Level Order Traversal</a>
