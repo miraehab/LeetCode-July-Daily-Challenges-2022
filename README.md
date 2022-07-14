@@ -16,3 +16,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 11. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/199.%20Binary%20Tree%20Right%20Side%20View.cpp"> Binary Tree Right Side View</a>
 12. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/473.%20Matchsticks%20to%20Square.cpp"> Matchsticks to Square</a>
 13. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp"> Binary Tree Level Order Traversal</a>
+14. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp"> Construct Binary Tree from Preorder and Inorder Traversal</a>
