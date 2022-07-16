@@ -18,3 +18,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 13. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/102.%20Binary%20Tree%20Level%20Order%20Traversal.cpp"> Binary Tree Level Order Traversal</a>
 14. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal.cpp"> Construct Binary Tree from Preorder and Inorder Traversal</a>
 15. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/695.%20Max%20Area%20of%20Island.cpp"> Max Area of Island</a>
+16. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/576.%20Out%20of%20Boundary%20Paths.cpp"> Out of Boundary Paths</a>
