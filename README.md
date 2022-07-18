@@ -20,3 +20,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 15. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/695.%20Max%20Area%20of%20Island.cpp"> Max Area of Island</a>
 16. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/576.%20Out%20of%20Boundary%20Paths.cpp"> Out of Boundary Paths</a>
 17. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/629.%20K%20Inverse%20Pairs%20Array.cpp"> K Inverse Pairs Array</a>
+18. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp"> Number of Submatrices That Sum to Target</a>
