@@ -22,3 +22,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 17. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/629.%20K%20Inverse%20Pairs%20Array.cpp"> K Inverse Pairs Array</a>
 18. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target.cpp"> Number of Submatrices That Sum to Target</a>
 19. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/118.%20Pascal's%20Triangle.cpp"> Pascal's Triangle</a>
+20. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/792.%20Number%20of%20Matching%20Subsequences.cpp"> Number of Matching Subsequences</a>
