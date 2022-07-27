@@ -26,3 +26,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 21. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/92.%20Reverse%20Linked%20List%20II.cpp"> Reverse Linked List II</a>
 22. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/86.%20Partition%20List.cpp"> Partition List</a>
 23. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cpp"> Count of Smaller Numbers After Self</a>
+24. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/240.%20Search%20a%202D%20Matrix%20II.cpp"> Search a 2D Matrix II</a>
