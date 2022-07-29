@@ -31,3 +31,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 26. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp"> Lowest Common Ancestor of a Binary Tree</a>
 27. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp"> Flatten Binary Tree to Linked List</a>
 28. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/242.%20Valid%20Anagram.cpp"> Valid Anagram</a>
+29. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/890.%20Find%20and%20Replace%20Pattern.cpp"> Find and Replace Pattern</a>
