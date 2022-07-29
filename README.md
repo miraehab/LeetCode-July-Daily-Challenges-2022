@@ -30,3 +30,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 25. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp"> Find First and Last Position of Element in Sorted Array</a>
 26. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp"> Lowest Common Ancestor of a Binary Tree</a>
 27. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/114.%20Flatten%20Binary%20Tree%20to%20Linked%20List.cpp"> Flatten Binary Tree to Linked List</a>
+28. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/242.%20Valid%20Anagram.cpp"> Valid Anagram</a>
