@@ -28,3 +28,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 23. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/315.%20Count%20of%20Smaller%20Numbers%20After%20Self.cpp"> Count of Smaller Numbers After Self</a>
 24. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/240.%20Search%20a%202D%20Matrix%20II.cpp"> Search a 2D Matrix II</a>
 25. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp"> Find First and Last Position of Element in Sorted Array</a>
+26. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/236.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree.cpp"> Lowest Common Ancestor of a Binary Tree</a>
