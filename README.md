@@ -33,3 +33,4 @@ This repository contains my solutions to the LeetCode Daily Challenges of July i
 28. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/242.%20Valid%20Anagram.cpp"> Valid Anagram</a>
 29. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/890.%20Find%20and%20Replace%20Pattern.cpp"> Find and Replace Pattern</a>
 30. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/916.%20Word%20Subsets.cpp"> Word Subsets</a>
+31. <a href="https://github.com/miraehab/LeetCode-July-Daily-Challenges-2022/blob/main/307.%20Range%20Sum%20Query%20-%20Mutable.cpp"> Range Sum Query - Mutable</a>
